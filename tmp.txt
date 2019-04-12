@@ -1,0 +1,4 @@
+COMMAND     PID        USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
+com.docke 17322 alexbumpers   18u  IPv4 0x4cb07f2e989bef27      0t0  TCP *:commplex-main (LISTEN)
+com.docke 17322 alexbumpers   22u  IPv6 0x4cb07f2ea848687f      0t0  TCP localhost:commplex-main (LISTEN)
+Python    25652 alexbumpers    4u  IPv4 0x4cb07f2eae6809a7      0t0  TCP localhost:commplex-main (LISTEN)
